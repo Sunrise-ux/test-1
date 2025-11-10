@@ -1,2 +1,2 @@
-def hello():
-    return "Hello, CI/CD!"
+﻿def hello():
+    return 'Hello, CI/CD!'
